@@ -104,7 +104,7 @@ const Lucas {
 
 <br>
 
-## Rede sociais
+## Social Media
 
 ### 📺 [LinkedIn][linkedin]
 ### 📷 [Youtube][youtube]
