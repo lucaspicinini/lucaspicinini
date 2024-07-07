@@ -20,14 +20,12 @@ Brazilian, programmer and Computer Science student. I like to explore new challe
     "languages": [
         "Java",
         "JavaScript",
-        "PHP",
         "CSS"
     ],
 
     "toolkit": [
         "Node.js",
         "Spring",
-        "Laravel",
         "Tailwind",
         "Bootstrap",
         "Docker"
