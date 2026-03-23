@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Brazilian, programmer and Computer Science student. I like to explore new challenges, collaborate by delivering the knowledge I already have and keep myself constantly learning. I also like studying languages and have been practicing martial arts since I was 11 years old. Here you can see some of the result of this mix on my translations channel, check it out - 📺 [Brazilian MMA Legends][youtube] 📺
+Brazilian, programmer and Computer Science student. I like to explore new challenges, collaborate by delivering the knowledge I already have and keep myself constantly learning. I also like studying languages and have been practicing martial arts since I was 11 years old.
 
 ## About Me
 
