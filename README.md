@@ -14,6 +14,13 @@ Brazilian, programmer and Computer Science student. I like to explore new challe
         "Linux",
         "Networks",
         "IAM"
+    ],
+    "hobbies": [
+        "BJJ",
+        "MMA",
+        "Football",
+        "Running",
+        "Games"
     ]
 }
 ```
